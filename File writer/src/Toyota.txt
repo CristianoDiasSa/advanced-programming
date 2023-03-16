@@ -1,0 +1,3 @@
+ID, Brand, Mileage, Production_year
+8, Toyota, 0, 1993
+18, Toyota, 51544, 2011

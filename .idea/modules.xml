@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data reader/Data reader.iml" filepath="$PROJECT_DIR$/Data reader/Data reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File writer/File writer.iml" filepath="$PROJECT_DIR$/File writer/File writer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi threaded software/Multi threaded software.iml" filepath="$PROJECT_DIR$/Multi threaded software/Multi threaded software.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/advanced-programming.iml" filepath="$PROJECT_DIR$/.idea/advanced-programming.iml" />
+    </modules>
+  </component>
+</project>

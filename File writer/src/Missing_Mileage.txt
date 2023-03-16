@@ -1,0 +1,3 @@
+ID, Brand, Mileage, Production_year
+8, Toyota, Missing Mileage, 1993
+13, Pontiac, Missing Mileage, 1996
