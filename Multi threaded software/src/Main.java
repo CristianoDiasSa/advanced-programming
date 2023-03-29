@@ -11,7 +11,6 @@ public class Main {
       // Generating the data
       ArrayList<Country>[] country = Country.generateData();
 
-
       System.out.println("Details for Country 1\n");
       // Running thread 1
       thread.C1.run();
